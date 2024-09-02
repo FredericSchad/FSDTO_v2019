@@ -1,0 +1,6 @@
+C:\Sistemas_github\FSDTO_v2019\bin\Debug\FSDTO_v2019.dll
+C:\Sistemas_github\FSDTO_v2019\bin\Debug\FSDTO_v2019.pdb
+C:\Sistemas_github\FSDTO_v2019\obj\Debug\FSDTO_v2019.csproj.CoreCompileInputs.cache
+C:\Sistemas_github\FSDTO_v2019\obj\Debug\FSDTO_v2019.dll
+C:\Sistemas_github\FSDTO_v2019\obj\Debug\FSDTO_v2019.pdb
+C:\Sistemas_github\FSDTO_v2019\obj\Debug\FSDTO_v2019.csproj.AssemblyReference.cache
